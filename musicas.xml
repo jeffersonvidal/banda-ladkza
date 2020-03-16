@@ -1,0 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+  <player showDisplay="yes" showPlaylist="no" autoStart="yes">
+    <song path="mp3/Tres.mp3" title="Tres - Ladkza" />
+    <song path="mp3/A_Culpa_Foi_Sua.mp3" title="A Culpa Foi Sua - Ladkza" />
+    <song path="mp3/Um_Mar_e_mais_de_Cancoes.mp3" title="Um Mar e Mais de Cancoes - Ladkza" />
+    <song path="mp3/Eterno_Amor.mp3" title="Eterno Amor - Ladkza" />
+    <song path="mp3/Voce_me_deu_Voce.mp3" title="Voce Me Deu Voce - Ladkza" />
+    <song path="mp3/Um_Front_para_as_Estrelas.mp3" title="Um Front Para as Estrelas - Ladkza" />
+    <song path="mp3/Maluca.mp3" title="Maluca - Ladkza" />
+    <song path="mp3/Meninas.mp3" title="Meninas - Ladkza" />
+    <song path="mp3/Cansei.mp3" title="Cansei - Ladkza" />
+    <song path="mp3/Amar_e_poder.mp3" title="Amar e Poder - Ladkza" />
+    <song path="mp3/Formulas.mp3" title="Formulas - Ladkza" />
+    <song path="mp3/Putona.mp3" title="Putona - Ladkza" />
+    <song path="mp3/Por_amor_ou_por_dinheiro.mp3" title="Por Amor ou Por Dinheiro - Ladkza" />
+    
+</player>
