@@ -19,9 +19,6 @@
   <a href="https://github.com/jeffersonvidal/foodfy/commits/master">
     <img alt="Last commit date" src="https://img.shields.io/github/last-commit/jeffersonvidal/banda-ladkza">
   </a>
-  <a href="https://github.com/jeffersonvidal/banda-ladkza" target="_blank">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/jeffersonvidal/banda-ladkza">
-  </a>
 </p>
 <p align="center">
   <a href="https://github.com/jeffersonvidal/banda-ladkza/issues" target="_blank">
@@ -46,7 +43,7 @@
 
 <p align="center">
   <a href="#languages">Languages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <a id="languages"></a>
@@ -61,6 +58,10 @@
 <a id="screenshots"></a>
 ### Screenshots
 
-![Demonstration](https://github.com/jeffersonvidal/banda-ladkza/blob/master/screenshots/demo.gif?raw=true)
+<p align="center">
 
-![Screen1](https://github.com/jeffersonvidal/banda-ladkza/blob/master/screenshots/screen1.PNG?raw=true)
+  ![Demonstration](https://github.com/jeffersonvidal/banda-ladkza/blob/master/screenshots/demo.gif?raw=true)
+
+  ![Screen1](https://github.com/jeffersonvidal/banda-ladkza/blob/master/screenshots/screen1.PNG?raw=true)
+
+</p>
