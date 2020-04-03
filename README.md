@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="#languages">Languages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;
+  <a href="#screenshots">Screenshots</a>
 </p>
 
 <a id="languages"></a>
@@ -51,7 +51,7 @@
 
 - [x] HTML
 - [x] Adobe Flash
-- [x] ActionScript 2
+- [x] ActionScript 3
 - [x] PHP
 - [x] XML
 
