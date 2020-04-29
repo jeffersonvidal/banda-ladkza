@@ -65,3 +65,7 @@
   ![Screen1](https://github.com/jeffersonvidal/banda-ladkza/blob/master/screenshots/screen1.PNG?raw=true)
 
 </p>
+
+---
+
+Made with ♥ by [Jefferson Vidal](https://github.com/jeffersonvidal)
